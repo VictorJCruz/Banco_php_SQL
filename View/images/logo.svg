@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="161" height="35.52" viewBox="0 0 161 35.52">
+  <g id="logo" transform="translate(-30 -70)">
+    <path id="connect" d="M25.875,18.011a7.875,7.875,0,0,0-4.7,1.564l-4.747-4.747A7.718,7.718,0,0,0,18,10.136a7.875,7.875,0,1,0-3.161,6.289l4.736,4.747a7.875,7.875,0,1,0,6.3-3.161ZM4.5,10.136a5.625,5.625,0,1,1,5.625,5.625A5.625,5.625,0,0,1,4.5,10.136Z" transform="translate(27.75 71.759)" fill="#fff"/>
+    <text id="convert_" data-name="convert " transform="translate(66 95)" fill="#fff" font-size="25" font-family="SofiaPro-Black, Sofia Pro" font-weight="800" letter-spacing="0.038em"><tspan x="0" y="0">CONVERT </tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10.312" height="10.312" viewBox="0 0 10.312 10.312">
+  <g id="ios-arrow-dropup" transform="translate(-3.375 -3.317)">
+    <path id="Path_1" data-name="Path 1" d="M10.122,15.343a.481.481,0,0,1,0-.677L12.494,12.3a.478.478,0,0,1,.659-.015l2.337,2.33a.478.478,0,1,1-.674.677l-2.008-1.978-2.01,2.03a.478.478,0,0,1-.677,0Z" transform="translate(-4.278 -5.689)" fill="#16bdbc"/>
+    <g id="icon_drop_up" data-name="icon drop up" transform="translate(-326.094 -18.527)">
+      <path id="Path_2" data-name="Path 2" d="M8.531,13.687A5.156,5.156,0,1,0,3.375,8.531,5.155,5.155,0,0,0,8.531,13.687Zm0-.793a4.367,4.367,0,1,1,3.084-1.279A4.325,4.325,0,0,1,8.531,12.893Z" transform="translate(326.094 18.469)" fill="#16bdbc"/>
+    </g>
+  </g>
+</svg>
